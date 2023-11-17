@@ -1,3 +1,3 @@
 # git-test
 
-Test git commands and processes
+Test git commands and processes (branching)
